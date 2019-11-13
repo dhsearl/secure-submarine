@@ -2,6 +2,9 @@
 .DS_Store
 .DS_STORE/
 
+# Environment Variable File
+.env
+
 # Logs
 logs
 *.log
